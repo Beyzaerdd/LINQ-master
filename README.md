@@ -1,0 +1,2 @@
+# LINQ-master
+ LINQ sorguları
